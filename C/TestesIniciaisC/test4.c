@@ -14,7 +14,7 @@ int main() {
     scanf("%lf", &salario);
     printf("Digite o valor da altura: ");
     scanf("%lf", &altura);
-    printf("Digite o nome da pessoa: "); //so funciona se nao for separado por espaço
+    printf("Digite o nome da pessoa: "); //so funciona se nao for separado por espaÃ§o
     scanf("%s", nome);//
 
     printf("IDADE = %d\n", idade);
