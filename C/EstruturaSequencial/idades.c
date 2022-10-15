@@ -36,10 +36,5 @@ int main()
     printf("A idade media de %s e %s eh de %.1lf anos", nome1, nome2, media);
 
 
-
-
-
-
-
     return 0;
 }
